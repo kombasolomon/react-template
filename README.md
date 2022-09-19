@@ -1,4 +1,4 @@
-smartcodes
+react template
 ==========
 
-Upcoming young programmer
+react core template
